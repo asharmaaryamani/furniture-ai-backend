@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+sentence-transformers
+pinecone-client
+requests
+transformers
